@@ -46,7 +46,7 @@ docker run --entrypoint molecule --rm -it -v $(pwd):/ansible r3pli/ansible-dev t
 
 ## License
 
-This project is licensed under the GNU General Public License Version 2 - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the GNU General Public License Version 2 - see the [LICENSE](LICENSE) file for details
 
 ## Author Information
 
